@@ -2,7 +2,7 @@
 - 👀 I’m interested in Android App Development with kotlin or java and Java Development
 - 🌱 I’m currently learning Flutter as well as Python Development
 - 💞️ I’m looking to collaborate on Android Projects or Java Projects
-- 📫 How to reach me : uttamkumar9708@gmail.com 
+- 📫 How to reach me : mahtouttamkumar01@gmail.com 
 - 🔗 Connect with me using LinkedIn : https://www.linkedin.com/in/uttam-kumar-b160bb197/
 
 <!---
