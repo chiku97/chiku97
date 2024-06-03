@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Uttam Kumar Mahto
-- 👀 xperienced Software Engineer witharound 2 years of experience at Oracle Cerner Strong background in software development, IT, and information
+- 👀 Experienced Software Engineer with around 2 years of experience at Oracle Cerner Strong background in software development, IT, and information
 technology. Seeking a Software Engineer position at a multinational corporation (MNC) to leverage skills in software development, problemsolving, and collaboration in delivering high-quality software solutions.
 - 🌱 Tech Stack: RoR, ReactJS, Javascript, Ruby, Jenkins.
 - 💞️ I’m looking to collaborate on RoR or ReactJS.
